@@ -24,19 +24,19 @@
 			containerPortal = 28F5184D1C83EEC900C11D71 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 28F518541C83EEC900C11D71;
-			remoteInfo = "BLRippleProcess";
+			remoteInfo = BLRippleProcess;
 		};
 		28F5187A1C83EEC900C11D71 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 28F5184D1C83EEC900C11D71 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 28F518541C83EEC900C11D71;
-			remoteInfo = "BLRippleProcess";
+			remoteInfo = BLRippleProcess;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		28F518551C83EEC900C11D71 /* BLRippleProcess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BLRippleProcess.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		28F518551C83EEC900C11D71 /* BLRippleProcess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BLRippleProcess.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28F518591C83EEC900C11D71 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		28F5185B1C83EEC900C11D71 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		28F5185C1C83EEC900C11D71 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -46,10 +46,10 @@
 		28F518641C83EEC900C11D71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28F518671C83EEC900C11D71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28F518691C83EEC900C11D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		28F5186E1C83EEC900C11D71 /* BLRippleProcessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BLRippleProcessTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		28F5186E1C83EEC900C11D71 /* BLRippleProcessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BLRippleProcessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28F518721C83EEC900C11D71 /* BLRippleProcess_masterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BLRippleProcess_masterTests.m; sourceTree = "<group>"; };
 		28F518741C83EEC900C11D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		28F518791C83EEC900C11D71 /* BLRippleProcessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BLRippleProcessUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		28F518791C83EEC900C11D71 /* BLRippleProcessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BLRippleProcessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28F5187D1C83EEC900C11D71 /* BLRippleProcess_masterUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BLRippleProcess_masterUITests.m; sourceTree = "<group>"; };
 		28F5187F1C83EEC900C11D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28F518901C83F00000C11D71 /* GradientProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GradientProgress.h; sourceTree = "<group>"; };
@@ -115,7 +115,7 @@
 				28F518691C83EEC900C11D71 /* Info.plist */,
 				28F518581C83EEC900C11D71 /* Supporting Files */,
 			);
-			path = "BLRippleProcess";
+			path = BLRippleProcess;
 			sourceTree = "<group>";
 		};
 		28F518581C83EEC900C11D71 /* Supporting Files */ = {
@@ -132,7 +132,7 @@
 				28F518721C83EEC900C11D71 /* BLRippleProcess_masterTests.m */,
 				28F518741C83EEC900C11D71 /* Info.plist */,
 			);
-			path = "BLRippleProcessTests";
+			path = BLRippleProcessTests;
 			sourceTree = "<group>";
 		};
 		28F5187C1C83EEC900C11D71 /* BLRippleProcessUITests */ = {
@@ -141,7 +141,7 @@
 				28F5187D1C83EEC900C11D71 /* BLRippleProcess_masterUITests.m */,
 				28F5187F1C83EEC900C11D71 /* Info.plist */,
 			);
-			path = "BLRippleProcessUITests";
+			path = BLRippleProcessUITests;
 			sourceTree = "<group>";
 		};
 		28F5188F1C83F00000C11D71 /* RippleProcess */ = {
@@ -168,8 +168,8 @@
 			);
 			dependencies = (
 			);
-			name = "BLRippleProcess";
-			productName = "BLRippleProcess";
+			name = BLRippleProcess;
+			productName = BLRippleProcess;
 			productReference = 28F518551C83EEC900C11D71 /* BLRippleProcess.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -186,8 +186,8 @@
 			dependencies = (
 				28F518701C83EEC900C11D71 /* PBXTargetDependency */,
 			);
-			name = "BLRippleProcessTests";
-			productName = "BLRippleProcessTests";
+			name = BLRippleProcessTests;
+			productName = BLRippleProcessTests;
 			productReference = 28F5186E1C83EEC900C11D71 /* BLRippleProcessTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
@@ -204,8 +204,8 @@
 			dependencies = (
 				28F5187B1C83EEC900C11D71 /* PBXTargetDependency */,
 			);
-			name = "BLRippleProcessUITests";
-			productName = "BLRippleProcessUITests";
+			name = BLRippleProcessUITests;
+			productName = BLRippleProcessUITests;
 			productReference = 28F518791C83EEC900C11D71 /* BLRippleProcessUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
@@ -427,9 +427,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "BLRippleProcess/Info.plist";
+				INFOPLIST_FILE = BLRippleProcess/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.revenco.BLRippleProcess";
+				PRODUCT_BUNDLE_IDENTIFIER = com.revenco.BLRippleProcess;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -438,9 +439,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "BLRippleProcess/Info.plist";
+				INFOPLIST_FILE = BLRippleProcess/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.revenco.BLRippleProcess";
+				PRODUCT_BUNDLE_IDENTIFIER = com.revenco.BLRippleProcess;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -449,9 +451,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "BLRippleProcessTests/Info.plist";
+				INFOPLIST_FILE = BLRippleProcessTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.revenco.BLRippleProcessTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.revenco.BLRippleProcessTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BLRippleProcess.app/BLRippleProcess";
 			};
@@ -461,9 +463,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "BLRippleProcessTests/Info.plist";
+				INFOPLIST_FILE = BLRippleProcessTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.revenco.BLRippleProcessTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.revenco.BLRippleProcessTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BLRippleProcess.app/BLRippleProcess";
 			};
@@ -472,11 +474,11 @@
 		28F518891C83EEC900C11D71 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = "BLRippleProcessUITests/Info.plist";
+				INFOPLIST_FILE = BLRippleProcessUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.revenco.BLRippleProcessUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.revenco.BLRippleProcessUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BLRippleProcess";
+				TEST_TARGET_NAME = BLRippleProcess;
 				USES_XCTRUNNER = YES;
 			};
 			name = Debug;
@@ -484,11 +486,11 @@
 		28F5188A1C83EEC900C11D71 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = "BLRippleProcessUITests/Info.plist";
+				INFOPLIST_FILE = BLRippleProcessUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.revenco.BLRippleProcessUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.revenco.BLRippleProcessUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BLRippleProcess";
+				TEST_TARGET_NAME = BLRippleProcess;
 				USES_XCTRUNNER = YES;
 			};
 			name = Release;
@@ -512,6 +514,7 @@
 				28F518841C83EEC900C11D71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		28F518851C83EEC900C11D71 /* Build configuration list for PBXNativeTarget "BLRippleProcessTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +523,7 @@
 				28F518871C83EEC900C11D71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		28F518881C83EEC900C11D71 /* Build configuration list for PBXNativeTarget "BLRippleProcessUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +532,7 @@
 				28F5188A1C83EEC900C11D71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
