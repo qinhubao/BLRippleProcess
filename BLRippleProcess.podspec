@@ -25,10 +25,9 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-			this project provide a circle process gradient color transferm for iOS developer used for diagram show
+			this project provide a circle process gradient color transferm for iOS developer used for diagram show, BLRippleProcess is a gradient circle process when we set a percent for it, it will grow with an animation.  
                    DESC
-
-  s.homepage     = "https://github.com/qinhubao/BLRippleProcess/GradientProgress"
+  s.homepage     = "https://github.com/qinhubao/BLRippleProcess"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
