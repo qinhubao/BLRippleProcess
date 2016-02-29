@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/qinhubao/BLRippleProcess.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/qinhubao/BLRippleProcess.git", :commit => 'b1369f7a9d95a0b872f988334baa9a63a4479f51' :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
