@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "BLRippleProcess"
   s.version      = "0.0.1"
-  s.summary      = "A short description of BLRippleProcess."
+  s.summary      = "BLRippleProcess is a gradient circle process when we set a percent for it, it will grow with an animation."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
+			this project provide a circle process gradient color transferm for iOS developer used for diagram show
                    DESC
 
   s.homepage     = "https://github.com/qinhubao/BLRippleProcess/GradientProgress"
@@ -39,7 +40,7 @@ Pod::Spec.new do |s|
   #
 
   s.license      = "MIT"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -79,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/qinhubao/BLRippleProcess.git", :commit = 'b1369f7a9d95a0b872f988334baa9a63a4479f51' :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/qinhubao/BLRippleProcess.git", :commit => 'b1369f7a9d95a0b872f988334baa9a63a4479f51', :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
